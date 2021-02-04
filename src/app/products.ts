@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    name: 'Phone JMC4',
+    name: 'Phone JMC3',
     price: 799,
     description: 'A large phone with one of the best screens'
   },
